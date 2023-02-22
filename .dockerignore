@@ -2,3 +2,9 @@
 .gitignore
 dockerfile
 venv
+*.session
+*.session.*
+*.session-journal
+*.idea
+*.code-workspace
+*.git
