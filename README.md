@@ -15,7 +15,6 @@ Please Join Support & FAQ Discord if you have questions.
 
 * Advanced python users post your debug queries here : <a href="https://discord.gg/wkznBbgBFD"><img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" width="25" height="25"></img></a>
 
-
 ## Description
 Forwardgram is a free and open source, telegram to discord message bot. It enables one to forward messages from Multiple Telegram channels to one (or more) Telegram/Discord channels of your own. This python bot monitors multiple telegram channels. When a new message/entity is sent, it will parse the response and forward it to a discord channel using your own personalized bot. It will also forward the same message to your own Telegram channel.
 
@@ -51,11 +50,16 @@ Forwardgram is a free and open source, telegram to discord message bot. It enabl
 ***PLEASE NOTE:  In the first time initializing the script, you will be requried to validate your phone number using telegram API. This happens only at the first time (per session name).
 ```
 
+## Note 
+
+I'm only Builded a Docker Container for Forwardgram that made by:
+
 ## Authors
 
-* Karan Kapuria
-* voidbar
-* Brent Stanfield (discord bot delay fix & rewrite)
+* Karan Kapuria https://github.com/kkapuria3/Telegram-To-Discord-Forward-Bot
+* voidbar https://github.com/voidbar/forwardgram
+* Brent Stanfield (discord bot delay fix & rewrite) https://github.com/Sqble/Telegram-To-Discord-Bot-Fixed
+* DaRK AnGeL - masterwishx (docker + Unraid Template)
 
 <a href="https://www.buymeacoffee.com/kapuriakaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
