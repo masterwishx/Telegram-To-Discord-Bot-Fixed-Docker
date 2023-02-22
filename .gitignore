@@ -1,0 +1,11 @@
+*.pyc
+venv
+.vscode
+__pycache__
+*.exe
+*.session
+*.session.*
+*.session-journal
+*.idea
+*.code-workspace
+resources
