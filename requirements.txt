@@ -1,0 +1,4 @@
+telethon
+pyyaml
+discord.py==1.7.3
+#discord.py (2.0.1) Having error and need addition coding steps for fix it 
